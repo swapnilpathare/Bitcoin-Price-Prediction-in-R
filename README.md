@@ -1,4 +1,4 @@
-# Data-Science-Projects
+# Bitcoin-Price-Prediction-in-R
 
 Following mentioned are some of the key points related to the project which one should know before working on project:
        
